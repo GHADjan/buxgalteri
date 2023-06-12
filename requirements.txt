@@ -1,0 +1,4 @@
+telebot
+sqlite3
+csv
+os
